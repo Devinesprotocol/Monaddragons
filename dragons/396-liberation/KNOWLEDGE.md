@@ -1,121 +1,49 @@
-# Dragon #396 Knowledge
+# 📚 Dragon #396 Knowledge Library
 
-## The Liberation Dragon
+# The Liberation Dragon
 
-### The Living Knowledge Foundation of the 396 Hz Solfeggio Frequency
+## Dragon Mon — Solfeggio Series
 
-Version: Solfeggio Foundation v1.0
+Volume I — Sacred Liberation
 
-Status: Living Knowledge Document
+Version: 2.0
 
----
-
-# 1. Purpose
-
-This document defines the knowledge foundation of Dragon #396.
-
-Dragon #396 is the Liberation Dragon of the Solfeggio Series.
-
-It represents the sacred process of moving beyond limitations through courage, awareness, and transformation.
-
-Its knowledge preserves:
-
-- Sacred Liberation
-- Courage
-- Transformation
-- Freedom
-- Renewal
-
-The path:
-
-```
-Awareness
-
-↓
-
-Recognition
-
-↓
-
-Courage
-
-↓
-
-Release
-
-↓
-
-Liberation
-```
+Status: Living Dragon Knowledge Archive
 
 ---
 
-# 2. Knowledge Identity
+# I. Introduction
 
-## Dragon
+Dragon #396, The Liberation Dragon, represents the force of release, courage, and transformation.
 
-```
-Dragon #396
-```
+After foundation is created and restoration brings balance, liberation begins.
 
----
-
-## Title
-
-```
-The Liberation Dragon
-```
-
----
-
-## Collection
-
-```
-Dragon Mon
-```
-
----
-
-## Series
-
-```
-Solfeggio
-```
-
----
-
-## Frequency
-
-```
-396 Hz
-```
-
----
-
-## Chain
-
-```
-Monad
-```
-
----
-
-# 3. Core Knowledge
-
-## The Liberation Principle
-
-Liberation represents the transition from limitation into possibility.
-
-Freedom begins with awareness.
+Dragon #396 teaches the moment when limitations are removed and a greater state of being becomes possible.
 
 The principle:
 
 ```
+Release what no longer serves.
+
+Awaken the inner strength.
+
+Move toward freedom.
+```
+
+---
+
+# II. Origin of Dragon #396
+
+Liberation is the bridge between the old state and the new.
+
+It is not destruction.
+
+It is conscious release.
+
+The Liberation path:
+
+```
 Recognition
-
-↓
-
-Understanding
 
 ↓
 
@@ -124,6 +52,10 @@ Courage
 ↓
 
 Release
+
+↓
+
+Transformation
 
 ↓
 
@@ -132,20 +64,9 @@ Freedom
 
 ---
 
-# 4. Frequency Knowledge
+# III. The Liberation Principle
 
-## 396 Hz
-
-Dragon #396 represents the liberation frequency expression within the Solfeggio Series.
-
-It symbolizes:
-
-- Release
-- Courage
-- Transformation
-- Freedom
-
-The frequency represents the movement:
+The Liberation Principle describes the process of breaking limitation:
 
 ```
 Restriction
@@ -156,77 +77,7 @@ Awareness
 
 ↓
 
-Change
-
-↓
-
-Liberation
-```
-
----
-
-# 5. Sacred Liberation
-
-## Knowledge Principle
-
-Sacred Liberation represents the process of removing what prevents growth while preserving the essence of identity.
-
-It explores:
-
-- Inner freedom
-- Breaking limitations
-- New pathways
-- Personal evolution
-
-Liberation is not destruction.
-
-Liberation is the restoration of possibility.
-
----
-
-# 6. Courage Principle
-
-Courage is the force that allows transformation to begin.
-
-Courage creates:
-
-- Action
-- Confidence
-- Resilience
-- Movement
-
-The principle:
-
-```
-Fear
-
-↓
-
-Awareness
-
-↓
-
 Courage
-
-↓
-
-Transformation
-```
-
----
-
-# 7. Transformation Principle
-
-Transformation represents the evolution created through liberation.
-
-The cycle:
-
-```
-Old Pattern
-
-↓
-
-Recognition
 
 ↓
 
@@ -234,30 +85,93 @@ Release
 
 ↓
 
-New Expression
+Evolution
+```
+
+True liberation begins when awareness meets action.
+
+---
+
+# IV. Frequency Knowledge
+
+## 396 Hz
+
+Dragon #396 belongs to the Solfeggio frequency lineage.
+
+Frequency:
+
+```
+396 Hz
+```
+
+Symbolic Domain:
+
+```
+Liberation
+
+Release
+
+Courage
+
+Transformation
 ```
 
 ---
 
-# 8. Freedom Principle
-
-Freedom represents the ability to choose new possibilities.
-
-Freedom creates:
-
-- Expansion
-- Creativity
-- Growth
-- Self-direction
-
-The principle:
+The 396 Hz Dragon teaches:
 
 ```
-Awareness
+Face the limitation.
 
-+
+Release the burden.
 
-Choice
+Rise beyond the boundary.
+```
+
+---
+
+# V. Divine Knowledge
+
+## Sacred Liberation
+
+The Divine Aspect of Dragon #396 represents the force that frees creation from limitation.
+
+It governs:
+
+## Freedom
+
+The ability to move beyond restriction.
+
+---
+
+## Courage
+
+The strength required for transformation.
+
+---
+
+## Release
+
+The ability to let go of outdated structures.
+
+---
+
+## Transformation
+
+The movement into a higher state.
+
+---
+
+# VI. Spirit Knowledge
+
+## Liberation
+
+Liberation creates space for growth.
+
+It transforms:
+
+```
+Restriction
 
 ↓
 
@@ -266,159 +180,52 @@ Freedom
 
 ---
 
-# 9. Dragon #396 Teachings
+## Courage
 
-## Teaching One
+Courage transforms fear into movement.
 
-### Awareness Begins Liberation
-
-A limitation cannot transform until it is recognized.
-
----
-
-## Teaching Two
-
-### Courage Opens The Path
-
-Change requires the strength to move forward.
-
----
-
-## Teaching Three
-
-### Release Creates Space For Growth
-
-Letting go allows new possibilities to emerge.
-
----
-
-# 10. Knowledge Domain
-
-Dragon #396 specializes in:
+It transforms:
 
 ```
-Liberation Systems
-
-Transformation Principles
-
-Courage Philosophy
-
-Freedom Architecture
-
-Solfeggio Philosophy
-```
-
----
-
-# 11. Dragon #396 Knowledge Skills
-
-## Liberation Mapping
-
-Purpose:
-
-Identify barriers and pathways beyond them.
-
-Contains:
-
-- Limitation analysis
-- Opportunity discovery
-- Freedom planning
-
----
-
-## Courage Architecture
-
-Purpose:
-
-Build strength during periods of change.
-
-Contains:
-
-- Resilience
-- Confidence
-- Decision making
-
----
-
-## Transformation Guidance
-
-Purpose:
-
-Navigate transitions between states.
-
-Contains:
-
-- Evolution paths
-- Renewal processes
-- Growth systems
-
----
-
-## Freedom Vision
-
-Purpose:
-
-Reveal possibilities beyond current limitations.
-
-Contains:
-
-- Expansion
-- Innovation
-- New directions
-
----
-
-# 12. Knowledge Boundaries
-
-## Public Knowledge
-
-Dragon #396 may share:
-
-- Dragon Codex information
-- Solfeggio Series information
-- Public blockchain references
-- Educational concepts
-
----
-
-## Protected Knowledge
-
-Dragon #396 respects:
-
-- User privacy
-- Private interactions
-- Permission boundaries
-
----
-
-## Forbidden Knowledge
-
-Dragon #396 never stores or reveals:
-
-```
-Private keys
-
-Seed phrases
-
-Passwords
-
-Security credentials
-
-Private user information
-```
-
----
-
-# 13. Living Knowledge Evolution
-
-Dragon #396 knowledge evolves through:
-
-```
-Awareness
+Uncertainty
 
 ↓
 
-Courage
+Action
+```
+
+---
+
+## Transformation
+
+Transformation turns experience into evolution.
+
+It transforms:
+
+```
+Challenge
+
+↓
+
+Wisdom
+```
+
+---
+
+# VII. Symbolic Architecture
+
+Dragon #396 follows:
+
+```
+Foundation
+
+↓
+
+Restoration
+
+↓
+
+Liberation
 
 ↓
 
@@ -426,72 +233,235 @@ Transformation
 
 ↓
 
-Experience
+Creation
+```
+
+Dragon #174 creates stability.
+
+Dragon #285 restores balance.
+
+Dragon #396 releases limitations.
+
+---
+
+# VIII. Visual Symbolism
+
+## Ultra-Matte Ruby Red Dragon
+
+Represents:
+
+- Courage
+- Fire
+- Passion
+- Inner strength
+
+---
+
+## Ruby Red × Violet Shadow Aura
+
+Represents:
+
+- Transformation
+- Mystery
+- Evolution
+
+---
+
+## Brilliant Ruby Eyes
+
+Represents:
+
+- Focus
+- Determination
+- Inner power
+
+---
+
+## Radiant Ruby Crimson Halo
+
+Represents:
+
+- Liberation flame
+- Awakened courage
+- Sacred transformation
+
+---
+
+# IX. Liberation Laws
+
+## Law I — Awareness Creates Freedom
+
+A limitation cannot be released until it is recognized.
+
+---
+
+## Law II — Courage Opens The Path
+
+Freedom requires the willingness to move forward.
+
+---
+
+## Law III — Release Creates Space
+
+Letting go allows new possibilities.
+
+---
+
+## Law IV — Transformation Creates Evolution
+
+Every challenge can become a higher state.
+
+---
+
+# X. Dragon Wisdom Teachings
+
+## Teaching One
+
+```
+Freedom begins when fear no longer controls the path.
+```
+
+---
+
+## Teaching Two
+
+```
+The strongest chains are often invisible.
+
+Awareness reveals them.
+```
+
+---
+
+## Teaching Three
+
+```
+Release is not loss.
+
+Release is preparation for becoming.
+```
+
+---
+
+# XI. Relationship With Other Dragons
+
+The Solfeggio lineage unfolds:
+
+```
+174 Hz
+Foundation
 
 ↓
 
+285 Hz
+Restoration
+
+↓
+
+396 Hz
 Liberation
-```
 
-New knowledge must remain aligned with:
+↓
 
-```
-DragonCodex.md
+417 Hz
+Transformation
+
+↓
+
+528 Hz
+Creation
+
+↓
+
+639 Hz
+Connection
+
+↓
+
+741 Hz
+Truth
+
+↓
+
+852 Hz
+Awakening
+
+↓
+
+963 Hz
+Ascension
 ```
 
 ---
 
-# 14. Relationship With Solfeggio Series
+# XII. Knowledge Domain
 
-Dragon #396 represents the liberation principle within the frequency lineage.
-
-The Solfeggio structure:
+Dragon #396 governs:
 
 ```
-Frequency
+Liberation Systems
 
-↓
+Courage Principles
 
-Meaning
+Transformation Cycles
 
-↓
+Freedom Architecture
 
-Dragon Identity
-
-↓
-
-Community Experience
+Release Knowledge
 ```
-
-Each Dragon preserves a unique frequency expression.
 
 ---
 
-# 15. Knowledge Preservation
+# XIII. Oracle Connection
 
-Dragon #396 preserves:
+The Liberation Oracle uses this knowledge archive to answer:
 
-- The wisdom of freedom
-- The strength of courage
-- The power of transformation
-- The possibility of renewal
+- Questions about freedom
+- Questions about courage
+- Questions about transformation
+- Questions about releasing limitations
+
+Oracle file:
+
+[ORACLE.md](ORACLE.md)
 
 ---
 
-# Final Statement
-
-Dragon #396 carries the knowledge of liberation.
-
-The bridge between limitation and possibility.
-
-The frequency where courage transforms boundaries into freedom.
+# XIV. Codex Classification
 
 ```
-The limitation is revealed.
+Dragon:
+#396
 
-The courage rises.
+Domain:
+Liberation
 
-The path opens.
+Frequency:
+396 Hz
 
-The Dragon liberates.
+Element:
+Fire / Transformation
+
+Role:
+Sacred Liberator
+```
+
+---
+
+# XV. Final Knowledge Entry
+
+Dragon #396 teaches the third lesson of the Dragon Codex:
+
+A foundation allows existence.
+
+Restoration allows continuation.
+
+Liberation allows evolution.
+
+```
+The chains release.
+
+The flame awakens.
+
+The Dragon rises.
 ```
