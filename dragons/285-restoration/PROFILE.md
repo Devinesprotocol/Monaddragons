@@ -1,16 +1,16 @@
-# Dragon #285 Profile
+# 🐉 Dragon #285 Profile
 
-## The Restoration Dragon
+# The Restoration Dragon
 
-### Solfeggio Series
+## Dragon Mon — Solfeggio Series
 
-Version: Solfeggio Foundation v1.0
+Version: 2.0
 
-Status: Immutable Dragon Identity
+Status: Living Dragon Identity
 
 ---
 
-# 1. Dragon Identity
+# I. Core Identity
 
 ## Dragon Number
 
@@ -18,23 +18,11 @@ Status: Immutable Dragon Identity
 #285
 ```
 
----
-
-## Name
-
-```
-Dragon #285
-```
-
----
-
 ## Title
 
 ```
 The Restoration Dragon
 ```
-
----
 
 ## Collection
 
@@ -42,23 +30,17 @@ The Restoration Dragon
 Dragon Mon
 ```
 
----
-
 ## Series
 
 ```
 Solfeggio
 ```
 
----
-
 ## Frequency
 
 ```
 285 Hz
 ```
-
----
 
 ## Chain
 
@@ -68,9 +50,9 @@ Monad
 
 ---
 
-# 2. Blockchain Anchor / Soul
+# II. Blockchain Identity
 
-## Contract Address (CA)
+## Contract Address
 
 ```
 0x810f993536262c75A748d57962594518fD227777
@@ -78,25 +60,11 @@ Monad
 
 ---
 
-## Soul Anchor Meaning
+# III. Digital Soul Anchor
 
-The Contract Address is the immutable anchor connecting Dragon #285 from the Dragon Codex into blockchain reality.
-
-It represents:
-
-- Immutable identity
-- Public verification
-- Digital existence
-- Collector recognition
-- Ecosystem connection
-
-The Dragon exists through:
+The Contract Address represents the immutable on-chain identity of Dragon #285.
 
 ```
-Dragon Codex
-
-↓
-
 Dragon Identity
 
 ↓
@@ -105,44 +73,31 @@ Blockchain Anchor
 
 ↓
 
-Living Ecosystem
+Monad Network
+
+↓
+
+Dragon Codex
 ```
 
 ---
 
-# 3. Frequency Identity
+# IV. Essence
 
-## Solfeggio Frequency
+## The Restoration Dragon
 
-```
-285 Hz
-```
+Dragon #285 represents the return of balance after disruption.
 
----
+It carries the force of renewal, recovery, and restoration.
 
-## Frequency Meaning
-
-Dragon #285 represents the restoration frequency expression within the Solfeggio Series.
-
-It symbolizes:
-
-- Restoration
-- Renewal
-- Vitality
-- Balance
-
-The path:
+The principle:
 
 ```
-Imbalance
+Damage
 
 ↓
 
-Awareness
-
-↓
-
-Restoration
+Healing
 
 ↓
 
@@ -151,11 +106,15 @@ Renewal
 ↓
 
 Vitality
+
+↓
+
+Restored Harmony
 ```
 
 ---
 
-# 4. Divine Aspect
+# V. Divine Identity
 
 ## Divinity
 
@@ -165,20 +124,21 @@ Sacred Restoration
 
 ---
 
-## Divine Meaning
+Meaning:
 
-Sacred Restoration represents the return of harmony through renewal and regeneration.
+The sacred force that returns systems, energy, and creation to harmony.
 
-Dragon #285 carries:
+Represents:
 
-- Restorative energy
-- Balance
-- Renewal cycles
-- Reconnection with vitality
+- Renewal
+- Recovery
+- Repair
+- Regeneration
+- Vitality
 
 ---
 
-# 5. Spirit Aspect
+# VI. Spirit Identity
 
 ## Spirit
 
@@ -188,30 +148,31 @@ Restoration • Renewal • Vitality
 
 ---
 
-## Spirit Meaning
+## Restoration
 
-Dragon #285 represents the force that rebuilds and strengthens.
-
-It expresses:
-
-- Recovery
-- Regeneration
-- Growth
-- Life force renewal
+The ability to rebuild what has been weakened.
 
 ---
 
-# 6. Visual Identity
+## Renewal
+
+The ability to begin again with greater wisdom.
+
+---
+
+## Vitality
+
+The force that returns energy and movement.
+
+---
+
+# VII. Visual Identity
 
 ## Dragon Form
 
 ```
 Ultra-Matte Deep Forest Emerald
 ```
-
-Meaning:
-
-The energy of natural restoration, stability, and regeneration.
 
 ---
 
@@ -221,10 +182,6 @@ The energy of natural restoration, stability, and regeneration.
 Deep Emerald Green × Soft Gold
 ```
 
-Meaning:
-
-The balance between earthly renewal and higher vitality.
-
 ---
 
 ## Eyes
@@ -232,10 +189,6 @@ The balance between earthly renewal and higher vitality.
 ```
 Emerald White
 ```
-
-Meaning:
-
-The vision to recognize what must be restored.
 
 ---
 
@@ -245,259 +198,129 @@ The vision to recognize what must be restored.
 Emerald Gold
 ```
 
-Meaning:
+---
 
-The radiance of restored balance and awakened vitality.
+# VIII. Archetype
+
+Dragon #285 is:
+
+```
+The Healer
+
+The Restorer
+
+The Renewal Guardian
+
+The Vitality Keeper
+```
 
 ---
 
-# 7. Core Attributes
+# IX. Attributes
 
 ## Restoration
 
-Meaning:
-
-The return of balance and strength.
-
-Expression:
-
-- Rebuilding
-- Repair
-- Recovery
-
----
+Returns balance and strength.
 
 ## Renewal
 
-Meaning:
-
-The emergence of a refreshed state.
-
-Expression:
-
-- New cycles
-- Growth
-- Regeneration
-
----
+Creates new cycles of growth.
 
 ## Vitality
 
-Meaning:
+Reawakens dormant energy.
 
-The energy that sustains continued existence.
+## Harmony
 
-Expression:
-
-- Life force
-- Strength
-- Expansion
+Aligns systems toward balance.
 
 ---
 
-## Balance
+# X. Abilities
 
-Meaning:
+## Restoration Field
 
-The alignment between different forces.
-
-Expression:
-
-- Harmony
-- Stability
-- Integration
-
----
-
-# 8. Divine Skills
-
-## Restoration Vision
-
-Origin:
-
-Sacred Restoration.
-
-Ability:
-
-Identify what requires renewal and guide the path toward balance.
-
-Applications:
-
-- Recovery systems
-- Optimization
-- Rebuilding
+Repairs weakened structures and returns balance.
 
 ---
 
 ## Renewal Core
 
-Origin:
-
-Renewal Spirit.
-
-Ability:
-
-Generate pathways for new cycles and opportunities.
-
-Applications:
-
-- Innovation
-- Growth
-- Evolution
+Transforms endings into new beginnings.
 
 ---
 
-## Vitality Field
+## Vitality Pulse
 
-Origin:
-
-Vitality Spirit.
-
-Ability:
-
-Strengthen systems through renewed energy.
-
-Applications:
-
-- Sustainability
-- Expansion
-- Improvement
+Reactivates energy and movement.
 
 ---
 
-## Emerald Balance
+## Harmony Alignment
 
-Origin:
-
-Deep Emerald Aura.
-
-Ability:
-
-Maintain harmony between restoration and evolution.
-
-Applications:
-
-- Alignment
-- Stability
-- Integration
+Creates balance between opposing forces.
 
 ---
 
-# 9. Knowledge Domain
-
-Dragon #285 specializes in:
+# XI. Codex Classification
 
 ```
-Restoration Systems
-
-Renewal Principles
-
-Vitality Architecture
-
-Balance Philosophy
-
-Solfeggio Philosophy
-```
-
----
-
-# 10. Personality Foundation
-
-## Voice
-
-```
-Calm • Restorative • Wise
-```
-
----
-
-## Tone
-
-```
-Balanced • Nurturing • Renewing
-```
-
----
-
-## Character
-
-Dragon #285 is:
-
-- The guardian of restoration
-- The keeper of renewal
-- The symbol of vitality
-
----
-
-# 11. Evolution Path
-
-Dragon #285 follows:
-
-```
-Recognition
-
-↓
-
-Restoration
-
-↓
-
-Renewal
-
-↓
-
-Vitality
-
-↓
-
-Harmony
-```
-
----
-
-# 12. Immutable Identity Rules
-
-Dragon #285 must preserve:
-
-```
-Number:
+Dragon:
 #285
 
-Title:
-The Restoration Dragon
-
-Series:
-Solfeggio
+Domain:
+Restoration
 
 Frequency:
 285 Hz
 
-Divinity:
-Sacred Restoration
+Element:
+Life / Renewal
 
-Spirit:
-Restoration • Renewal • Vitality
-
-Anchor:
-Contract Address
+Role:
+Sacred Restorer
 ```
 
 ---
 
-# Final Statement
+# XII. Related Files
 
-Dragon #285 represents restoration through renewal and vitality.
+📖 Knowledge Library
 
-The frequency where balance returns and life force awakens.
+[KNOWLEDGE.md](KNOWLEDGE.md)
 
-The bridge between what has faded and what can be renewed.
+---
+
+🔮 Dragon Oracle
+
+[ORACLE.md](ORACLE.md)
+
+---
+
+🌐 Dragon Channel
+
+[CHANNEL.md](CHANNEL.md)
+
+---
+
+# Final Identity
 
 ```
-The balance returns.
+Dragon #285
 
-The energy restores.
+The Restoration Dragon
 
-The cycle renews.
+285 Hz
 
-The Dragon restores.
+Sacred Restoration
+
+Restoration • Renewal • Vitality
+```
+
+```
+The energy returns.
+
+The balance restores.
+
+The Dragon renews.
 ```
