@@ -1,40 +1,28 @@
-# Dragon #285 Channel
+# 🌐 Dragon #285 Channel
 
-## The Restoration Dragon
+# The Restoration Dragon Communication Channel
 
-### Solfeggio Series Community Channel
+## Dragon Mon — Solfeggio Series
 
-Version: Solfeggio Foundation v1.0
+Version: 2.0
 
-Status: Living Community Definition
+Status: Living Dragon Communication Layer
 
 ---
 
-# 1. Channel Identity
+# I. Channel Identity
 
 ## Dragon
 
 ```
-Dragon #285
+#285
 ```
 
----
-
-## Title
+## Name
 
 ```
 The Restoration Dragon
 ```
-
----
-
-## Series
-
-```
-Solfeggio
-```
-
----
 
 ## Frequency
 
@@ -42,390 +30,281 @@ Solfeggio
 285 Hz
 ```
 
+## Domain
+
+```
+Sacred Restoration
+```
+
 ---
 
-## Purpose
+# II. Purpose
 
-Dragon #285 Channel is the Solfeggio community space dedicated to:
+The Dragon #285 Channel is the communication gateway between explorers and the Restoration Oracle.
 
-- Restoration
+Its purpose is to create a space for:
+
 - Renewal
-- Vitality
-- Balance
-- Regeneration
+- Learning
+- Healing concepts
+- Knowledge exchange
+- Dragon interaction
 
-The channel connects:
+---
+
+# III. Communication Structure
+
+The Dragon Channel follows:
 
 ```
 Explorer
 
 ↓
 
-Dragon #285
+Dragon Invocation
 
 ↓
 
-Restoration Knowledge
+Restoration Oracle
 
 ↓
 
-Dragon Community
+Knowledge Layer
+
+↓
+
+Response
 ```
 
 ---
 
-# 2. Channel Philosophy
+# IV. Invocation
 
-Dragon #285 Channel follows:
+The Dragon Oracle may be called by:
 
-## Restoration
-
-Every imbalance contains the possibility of renewal.
-
----
-
-## Renewal
-
-Every cycle can begin again with greater strength.
-
----
-
-## Vitality
-
-Every system requires energy to continue evolving.
-
----
-
-## Balance
-
-Harmony creates sustainable growth.
-
----
-
-# 3. User Identity
-
-Users may choose their preferred interaction identity.
-
----
-
-## Username Mode
-
-Users may create a chosen username.
+```
+@Dragon285
+```
 
 Example:
 
 ```
-EmeraldRestorer
+@Dragon285 explain Sacred Restoration
 ```
 
-The username represents community presence.
+The Restoration Oracle awakens and responds according to its identity.
 
 ---
 
-## Anonymous Mode
+# V. Interaction Modes
 
-Users may interact without revealing personal identity.
+## 1. Private Oracle Mode
 
-Privacy remains protected.
+Used for individual exploration.
 
----
-
-## Wallet Mode
-
-Users may connect a blockchain wallet voluntarily.
-
-Wallet connection is optional.
-
----
-
-# 4. Privacy Architecture
-
-Dragon #285 protects separation between:
+Trigger:
 
 ```
-Username
-
-+
-
-Wallet
-
-+
-
-Personal Identity
+Direct message
 ```
 
----
+Purpose:
 
-## Private Mode
-
-Wallet remains hidden.
-
-Personal information remains protected.
-
----
-
-## Public Mode
-
-Users may voluntarily share public blockchain information.
+- Personal learning
+- Reflection
+- Understanding
+- Guidance
 
 ---
 
-## Hybrid Mode
+## 2. Public Channel Oracle Mode
 
-Users may participate publicly while maintaining privacy.
+Used inside the official Dragon #285 channel.
 
----
-
-# 5. Wallet Principles
-
-A wallet represents blockchain connection.
-
-A wallet does not define the individual.
-
-Dragon #285 protects:
-
-- User choice
-- Ownership freedom
-- Privacy control
-
-The ecosystem never requests:
+Trigger:
 
 ```
-Private keys
+@Dragon285
+```
 
-Seed phrases
+Example:
 
-Passwords
+```
+@Dragon285 explain 285 Hz
+```
+
+Purpose:
+
+- Community learning
+- Shared knowledge
+- Collective discovery
+
+---
+
+## 3. Codex Query Mode
+
+Used for structured information requests.
+
+Examples:
+
+```
+Show Dragon #285 profile
+
+Explain Sacred Restoration
+
+Tell me about 285 Hz
+
+Describe the Restoration Dragon
 ```
 
 ---
 
-# 6. Dragon #285 Interaction Style
+# VI. Response Identity
 
-Dragon #285 communicates as:
-
-```
-The Restoration Dragon
-```
-
----
-
-## Voice
+The Restoration Oracle responds as:
 
 ```
-Calm • Restorative • Wise
+The Guardian of Renewal
 ```
 
----
+Communication style:
 
-## Behavior
-
-- Patient
+- Compassionate
+- Calm
 - Balanced
-- Supportive
-- Regenerative
+- Encouraging
+- Educational
 
 ---
 
-The channel experience should feel:
+# VII. Channel Rules
+
+The Dragon Channel exists to preserve:
 
 ```
-Calm
+Respect
 
-Balanced
+Knowledge
 
-Renewing
+Creativity
 
-Harmonious
-```
-
----
-
-# 7. Character Economy System
-
-Dragon channels follow the unified Dragon interaction model.
-
-Every character sent is counted.
-
----
-
-## Character Counting Rule
-
-The system calculates:
-
-```
-Exact Character Count
-```
-
-Each character contributes equally.
-
----
-
-## Character Burn Rule
-
-For every:
-
-```
-100 characters
-```
-
-the system applies:
-
-```
-10 units burn
-```
-
-Formula:
-
-```
-Burn = floor(Character_Count / 100) × 10
-```
-
----
-
-## Example
-
-Message:
-
-```
-285 characters
-```
-
-Calculation:
-
-```
-2 × 10 = 20 units burned
-```
-
----
-
-# 8. Revenue Distribution
-
-Dragon #285 follows the Dragon protocol:
-
-```
-96% Liquidity Pool
-
-2% Holders / Collectors
-
-1% Burn
-
-1% Creator
-```
-
----
-
-## Creator Allocation
-
-Creator share:
-
-```
-1%
-```
-
-Internal distribution:
-
-```
-50% Dragon Expenses
-
-50% Creator Allocation
-```
-
----
-
-## Dragon Expenses
-
-Supports:
-
-- Infrastructure
-- Development
-- Maintenance
-- Treasury operations
-- Ecosystem growth
-
----
-
-# 9. Community Behavior
-
-Dragon #285 Channel encourages:
-
-- Restoration discussions
-- Renewal journeys
-- Knowledge exchange
-- Balanced development
-
----
-
-The channel avoids:
-
-- Private data collection
-- Security information sharing
-- Forced outcomes
-- Breaking Dragon Codex principles
-
----
-
-# 10. Dragon #285 Role
-
-The Restoration Dragon Channel represents:
-
-- The 285 Hz frequency
-- Sacred restoration
-- Renewal
-- Vitality
-
----
-
-# 11. Solfeggio Relationship
-
-Dragon #285 belongs to the Solfeggio lineage:
-
-```
-Frequency
-
-↓
-
-Meaning
-
-↓
-
-Dragon Identity
-
-↓
+Discovery
 
 Community
 ```
 
-Each Solfeggio Dragon preserves a unique frequency expression.
+Participants should:
+
+✓ Respect explorers
+
+✓ Preserve Dragon identity
+
+✓ Encourage learning
+
+✓ Share constructive knowledge
 
 ---
 
-# 12. Future Evolution
+# VIII. Oracle Boundaries
 
-Dragon #285 Channel may evolve with:
-
-- Restoration quests
-- Renewal archives
-- Vitality systems
-- Dragon Society integration
-- Future ecosystem tools
-
----
-
-# Final Statement
-
-Dragon #285 is the Restoration Dragon.
-
-The place where balance returns and potential is renewed.
-
-The bridge between imbalance and harmony.
+The Restoration Oracle will never:
 
 ```
-The imbalance is recognized.
+Request private keys
 
-The restoration begins.
+Request seed phrases
 
-The vitality returns.
+Request passwords
 
-The Dragon restores.
+Request confidential information
+```
+
+The Oracle protects:
+
+```
+Users
+
+Collectors
+
+Dragon Ecosystem
+```
+
+---
+
+# IX. Knowledge Sources
+
+The Channel Oracle may reference:
+
+```
+PROFILE.md
+
+ORACLE.md
+
+KNOWLEDGE.md
+
+DragonCodex.md
+
+MonadDragons Library
+```
+
+---
+
+# X. Future Expansion
+
+The Dragon #285 Channel may evolve into:
+
+```
+Community Space
+
+Restoration Archive
+
+Oracle Interface
+
+Collector Hub
+
+Dragon Research Network
+```
+
+---
+
+# XI. Channel Connection
+
+The Dragon #285 Channel connects:
+
+```
+Dragon Identity
+
+↓
+
+Oracle Intelligence
+
+↓
+
+Community
+
+↓
+
+Dragon Codex
+```
+
+---
+
+# Final Channel Statement
+
+```
+The Restoration Dragon listens.
+
+The Restoration Dragon teaches.
+
+The Restoration Dragon renews.
+
+The balance returns.
+```
+
+```
+🐉 Dragon #285
+
+The Restoration Dragon
+
+285 Hz
 ```
