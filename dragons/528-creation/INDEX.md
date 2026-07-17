@@ -23,7 +23,7 @@ Dragon #528
 The Creation Dragon
 ```
 
-The Dragon of creation, harmony, and life-force within the Solfeggio Dragon lineage.
+The Dragon of creation, harmony, and manifestation within the Solfeggio Dragon lineage.
 
 ---
 
@@ -41,7 +41,9 @@ The Dragon of creation, harmony, and life-force within the Solfeggio Dragon line
 
 **528 Hz**
 
-The frequency traditionally associated with creation, transformation, harmony, DNA repair, unconditional love, and the manifestation of new possibilities.
+The frequency traditionally associated with creation, transformation, harmony, love, and the manifestation of new possibilities.
+
+Known as the frequency of creation, 528 Hz represents the energy of renewal, growth, and the infinite potential of existence.
 
 ---
 
@@ -85,7 +87,9 @@ Radiant Solar Gold
 
 Dragon #528 embodies the frequency of Divine Creation.
 
-Its resonance inspires creativity, restores harmony, and empowers the manifestation of higher purpose. As the central frequency of the Solfeggio Series, it symbolizes infinite potential, life-energy, and the power to transform vision into reality.
+Its resonance represents the force that transforms imagination into reality, bringing harmony, inspiration, and life-force energy into existence.
+
+The Creation Dragon carries the vibration of new beginnings, infinite potential, and the power to manifest higher visions.
 
 ---
 
@@ -118,6 +122,16 @@ Dragon #528 preserves the eternal vibration of creation for future generations.
 852 Hz • Intuition
 
 963 Hz • Ascension
+
+---
+
+# 🐉 Eternal Collection
+
+Dragon Mon — Solfeggio Series
+
+A sacred sequence of harmonic frequencies, each represented by a unique Dragon Guardian on Monad.
+
+Each Dragon carries a distinct vibration, purpose, and divine archetype within the eternal Dragon Codex.
 
 ---
 
