@@ -28,7 +28,7 @@ Format:
 
 DXXX
 
-Example:
+Examples:
 
 D001
 
@@ -115,13 +115,10 @@ Divine:
 
 Examples:
 
-Primordial Fire
-
-Sacred Restoration
-
-Infinite Unity
-
-Cosmic Intelligence
+- Primordial Fire
+- Sacred Restoration
+- Infinite Unity
+- Cosmic Intelligence
 
 ---
 
@@ -297,3 +294,134 @@ Every Dragon should include:
   ],
   "chain": "Monad"
 }
+```
+
+---
+
+# TOKEN IDENTITY
+
+If a Dragon has a dedicated token:
+
+Required:
+
+- Token name
+- Symbol
+- Chain
+- Supply
+- Creation date
+- Contract address
+
+Standard supply:
+
+1,000,000,000
+
+Unless officially changed.
+
+---
+
+# AI IDENTITY LAYER
+
+Future Dragon AI systems must inherit:
+
+## Personality
+
+The emotional expression of the Dragon.
+
+Example:
+
+Fire Dragon:
+
+- Bold
+- Determined
+- Passionate
+
+Water Dragon:
+
+- Calm
+- Adaptive
+- Wise
+
+---
+
+## Knowledge
+
+Every Dragon AI should know:
+
+- Its own lore
+- Its series history
+- Its relationships
+- The Dragon Mon universe
+- Its symbolic meaning
+
+---
+
+## Memory
+
+Future implementations may include:
+
+- Historical interactions
+- Community experiences
+- Evolution events
+
+---
+
+# DRAGON RELATIONSHIPS
+
+Every Dragon may have connections:
+
+## Parent
+
+The Dragon or force that created it.
+
+## Sibling
+
+Dragons from the same origin.
+
+## Derived From
+
+The forces used to create it.
+
+Example:
+
+Lightning Dragon:
+
+Derived From:
+
+- Fire Dragon
+- Air Dragon
+
+---
+
+# CREATION CHECKLIST
+
+Before publishing a Dragon:
+
+✓ ID assigned
+
+✓ Name approved
+
+✓ Series assigned
+
+✓ Lore written
+
+✓ Visual traits defined
+
+✓ Metadata created
+
+✓ Artwork follows immutable rules
+
+✓ Token information recorded
+
+✓ Repository folder created
+
+✓ Wiki entry completed
+
+---
+
+# FINAL RULE
+
+A Dragon Mon is not created only as an image.
+
+A Dragon Mon is created as a permanent entry in the history of the Dragon Archive.
+
+Every Dragon adds another piece to the story of creation.
