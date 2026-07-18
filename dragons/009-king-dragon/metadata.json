@@ -1,0 +1,35 @@
+{
+  "id": "D009",
+  "number": 9,
+  "name": "King Dragon",
+  "title": "The King of Dragons",
+  "collection": "Dragon Mon",
+  "series": "Royal",
+  "chain": "Monad",
+  "divinity": "Sovereign Kingship",
+  "spirit": [
+    "Leadership",
+    "Honor",
+    "Dominion"
+  ],
+  "identity": "The King of Dragons",
+  "dragon": {
+    "color": "Ultra-Matte Obsidian Black",
+    "crown": "Imperial Black Gold",
+    "eyes": "Infinite Sovereign White",
+    "halo": "Radiant Royal Gold × Genesis Monad Violet",
+    "aura": [
+      "Imperial Gold",
+      "Celestial White"
+    ]
+  },
+  "immutable": true,
+  "folder": "009-king-dragon",
+  "ticker": "$KING",
+  "royalty": {
+    "lp": 90,
+    "holders": 6,
+    "treasury": 3,
+    "burn": 1
+  }
+}
